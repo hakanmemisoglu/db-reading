@@ -2,6 +2,8 @@
 
 ## Concurrency Control
 
+[Concurrency Control Performance Modeling: Alternatives and Implications TODS'87](https://www.cs.berkeley.edu/~brewer/cs262/ConcControl.pdf)
+
 [High-Performance Concurrency Control Mechanisms for Main-Memory Databases VLDB'12] (http://research.microsoft.com/pubs/193594/Hekaton%20-%20Sigmod2013%20final.pdf)
 
 [Speedy Transactions in Multicore In-Memory Databases SOSP'13](http://db.csail.mit.edu/pubs/silo.pdf)
